@@ -1,4 +1,4 @@
-# 👋 Привет, я Саша Дерягин 
+<h1 align="center">👋 Привет, я Саша Дерягин</h1> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/007sunchela/007sunchela/main/assets/banner.jpg" />
