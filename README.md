@@ -23,9 +23,7 @@
 - Postman 
 
 ### 🧪 Учебные проекты (ссылки) 
-- 📱 Todo App (Flutter, Provider)
-- 🌤 Weather App (API, HTTP)
-- 🧮 Calculator (UI + логика)
+- [LOLify](https://github.com/007sunchela/lolify)
 
 ### 📬 Контакты 
 [![Email](https://img.shields.io/badge/Email-007sunchela2001@mail.ru-blue?style=flat&logo=gmail)](mailto:007sunchela2001@mail.ru)
