@@ -22,7 +22,7 @@
 - VS Code 
 - Postman 
 
-### 🧪 Учебные проекты (ссылки) 
+### 🧪 Учебные проекты 
 - [LOLify](https://github.com/007sunchela/lolify)
 
 ### 📬 Контакты 
