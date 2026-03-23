@@ -24,6 +24,7 @@
 
 ### 🧪 Учебные проекты 
 - [LOLify](https://github.com/007sunchela/lolify)
+- [Tarotify](https://github.com/007sunchela/tarotify) 
 
 ### 📬 Контакты 
 [![Email](https://img.shields.io/badge/Email-007sunchela2001@mail.ru-blue?style=flat&logo=gmail)](mailto:007sunchela2001@mail.ru)
