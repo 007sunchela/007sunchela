@@ -28,4 +28,4 @@
 
 ### 📬 Контакты 
 [![Email](https://img.shields.io/badge/Email-007sunchela2001@mail.ru-blue?style=flat&logo=gmail)](mailto:007sunchela2001@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@lox_lives-blue?style=flat&logo=telegram)](https://t.me/sunchela_007) 
+[![Telegram](https://img.shields.io/badge/Telegram-@sunchela_007-blue?style=flat&logo=telegram)](https://t.me/sunchela_007) 
