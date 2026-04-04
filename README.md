@@ -20,7 +20,9 @@
 
 ### ⚙️ DevTools 
 - VS Code 
-- Postman 
+- Postman
+- Firebase
+- Figma 
 
 ### 🧪 Учебные проекты 
 - [LOLify](https://github.com/007sunchela/lolify)
