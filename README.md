@@ -24,12 +24,13 @@
 - Firebase
 - Figma 
 
-### 🧪 Pet-проекты  
+### 💡 Pet-проекты  
 - [LOLify](https://github.com/007sunchela/lolify)
 - [Tarotify](https://github.com/007sunchela/tarotify)
 
-### 🧪 Дизайн-проекты (Design to Code) 
-- [Profile Page UI Design](https://github.com/007sunchela/profile)  
+### 🎨 Дизайн-проекты (Design to Code) 
+- [Profile Page UI Design](https://github.com/007sunchela/profile)
+- [Login and Signup page for mobile UI](https://github.com/007sunchela/login)
 
 ### 📬 Контакты 
 [![Email](https://img.shields.io/badge/Email-007sunchela2001@mail.ru-blue?style=flat&logo=gmail)](mailto:007sunchela2001@mail.ru)
