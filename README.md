@@ -28,7 +28,7 @@
 - [LOLify](https://github.com/007sunchela/lolify)
 - [Tarotify](https://github.com/007sunchela/tarotify)
 
-### 🎨 Дизайн-проекты (Design to Code) 
+### 🎨 Дизайн-проекты  
 - [Profile Page UI Design](https://github.com/007sunchela/profile)
 - [Login and Signup page for mobile UI](https://github.com/007sunchela/login)
 
