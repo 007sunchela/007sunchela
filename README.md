@@ -13,16 +13,18 @@
 - Писать мобильные приложения (Android/iOS) 
 - Получить стажировку и первую работу 
 
-### 🛠 Стек
-- Flutter
-- Dart
-- Git
+### 🛠 Стек разработки 
+- ЯП/Framework: Dart/Flutter   
+- API: http/dio   
+- DB: SQLite, Drift, Firestore  
+- SM: Provider, Cubit/BLoC 
 
 ### ⚙️ DevTools 
 - VS Code 
 - Postman
 - Firebase
-- Figma 
+- Figma
+- Git 
 
 ### 💡 Pet-проекты  
 - [LOLify](https://github.com/007sunchela/lolify)
